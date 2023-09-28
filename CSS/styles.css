@@ -211,3 +211,13 @@ body
         opacity: 1;
     }
 }
+
+
+.footer 
+{
+  position: relative;
+  bottom: 148px;
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
