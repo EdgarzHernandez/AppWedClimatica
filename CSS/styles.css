@@ -216,7 +216,7 @@ body
 .footer 
 {
   position: relative;
-  bottom: 148px;
+  top: 148px;
   color: black;
   text-align: center;
   font-size: 25px;
